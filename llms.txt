@@ -1,0 +1,17 @@
+# Bare Bones Mechanics
+
+Bare Bones Mechanics provides basic mobile vehicle maintenance serving the Triad area.
+
+## Primary services
+- Oil changes
+- Filter replacement
+- Battery replacement
+- Tire rotation
+
+Other requests are reviewed case by case and are not guaranteed. Complex diagnostics and repairs should be deferred to a certified repair shop or dealer.
+
+## Customer process
+Customers submit a service intake form, select a provisional appointment time, receive and approve a quote, and pay through Stripe or PayPal before the appointment is confirmed.
+
+## Canonical website
+https://barebonesmechanics.com
